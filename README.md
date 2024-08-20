@@ -1,7 +1,10 @@
 # npm install
 # to run backend - npm start
+# https://flyweis-q9qa.onrender.com --- this is deployed code ip use either this with endpoints or http://localhost:4000 with endpoints on postman to check apis
+
 # for registration or login with phone number 
   http://localhost:4000/register-client
+  
   https://flyweis-q9qa.onrender.com/register-client
 # for otp verification 
   http://localhost:4000/verify-otp
